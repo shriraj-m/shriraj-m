@@ -20,6 +20,8 @@ I'm also looking for a AI Engineering or ML Engineering Summer Internship for 20
 
 ## Projects I'm Working On  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+*Private Repositories* --------------------
+
 ### **Automating the SDLC for Web Development with Agentic AI**  
 🔹  **Multi-Agentic workflow for Front-End Code Generation**  
 
@@ -34,7 +36,18 @@ I'm also looking for a AI Engineering or ML Engineering Summer Internship for 20
 
 🔹 Also incorporates Azure DevOps, Vector DBs, and RAG (Retrieval Augmented Generation)
 
-🔹 This is a solo project as a current Spring **AI Engineering Intern** @ CEdge Inc
+🔹 This is a solo project as a current Spring 2025 **AI Engineering Intern** @ CEdge Inc
+
+*Public Repositories* --------------------
+
+### **FigmaGen**  
+🔹  **Custom Figma Plugin that Utilizes a Agentic AI for Component Creation**  
+
+🔹 Front-End uses **Typescript, Javascript, and HTML** for the Figma plugin development.
+
+🔹 Back-End uses **Python, LangChain, LangGraph, FastAPI, and Uvicorn** for AI Agent and API creation.  
+
+🔹 Automatic Figma component creation based on custom user prompt.   
 
 ### **3D Object Detection for Autonomous Vehicles**  
 🔹  **Point Cloud Data Processing for Autonomous Navigation**  
@@ -43,7 +56,7 @@ I'm also looking for a AI Engineering or ML Engineering Summer Internship for 20
 
 🔹 Investigating **PointNet, BEV, and Voxel-based techniques**  
 
-### **I have two really interested projects that I want to start developing soon!! I just need the time**
+### **I have another really interesting full-scale project that I want to start developing soon!! I just need the time**
 
 ## Let's Connect!  
 LinkedIn: [https://www.linkedin.com/in/shriraj-m](https://www.linkedin.com/in/shriraj-m)
